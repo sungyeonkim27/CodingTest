@@ -1,5 +1,5 @@
 class Solution {
     public int solution(int a, int b) {
-        return 0;
+        return 1;
     }
 }
