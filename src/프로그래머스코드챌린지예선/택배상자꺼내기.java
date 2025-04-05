@@ -1,4 +1,4 @@
-package 프로그래머스코드챌린지2차예선;
+package 프로그래머스코드챌린지예선;
 
 public class 택배상자꺼내기 {
     public int solution(int n, int w, int num) {
