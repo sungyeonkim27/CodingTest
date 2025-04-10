@@ -1,4 +1,4 @@
-package 프로그래머스코드챌린지예선;
+package 프로그래머스코드레벨1;
 
 public class 택배상자꺼내기 {
     public int solution(int n, int w, int num) {
@@ -12,7 +12,7 @@ public class 택배상자꺼내기 {
 
         if (n / w % 2 == 0) {
             for (int i = 0; i < n % w; i++) {
-               width_num[i] += 1;
+                width_num[i] += 1;
             }
         } else if (n / w % 2 == 1) {
             for (int i = w - 1; i > w - 1 - n % w; i--) {

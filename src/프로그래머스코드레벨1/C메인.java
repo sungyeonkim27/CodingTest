@@ -1,4 +1,4 @@
-package 프로그래머스코드챌린지2차예선;
+package 프로그래머스코드레벨1;
 
 public class C메인 {
     public static void main(String[] args) {

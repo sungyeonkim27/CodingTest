@@ -1,9 +1,52 @@
-package 프로그래머스코드챌린지예선;
+package 프로그래머스코드레벨1;
 /*
 1. timelogs[i][0] ~timelogs[i][6] 까지 모두 만족한 schedules[i]에게만 지급
 2. timelogs[i][j], schdules[i]를 서로 비교하여 만족해야함
 3. startday = 6,7인 경우인 timelogsdml j는 조건에 포함하면 안됨.
  */
+
+/*
+
+int time = 957;
+
+int minute;
+
+minute = (time / 100) * 60 + (time % 100);
+
+
+
+
+
+
+
+
+
+
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 public class 유연근무제 {
     public int solution(int[] schedules, int[][] timelogs, int startday) {
@@ -29,3 +72,9 @@ public class 유연근무제 {
     }
 
 }
+
+
+
+
+
+

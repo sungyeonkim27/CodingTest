@@ -1,4 +1,4 @@
-package 프로그래머스코드챌린지예선;
+package 프로그래머스코드레벨1;
 
 import java.util.HashMap;
 
