@@ -1,4 +1,4 @@
-package bakjun_private.입출력과_사칙연산.APlusB;
+package bakjun_private.날짜20250604.입출력과_사칙연산.APlusB;
 
 import java.io.*;
 import java.util.StringTokenizer;

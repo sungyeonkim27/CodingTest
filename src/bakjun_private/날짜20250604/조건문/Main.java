@@ -1,4 +1,4 @@
-package bakjun_private.조건문;
+package bakjun_private.날짜20250604.조건문;
 import java.util.Scanner;
 
 public class Main {

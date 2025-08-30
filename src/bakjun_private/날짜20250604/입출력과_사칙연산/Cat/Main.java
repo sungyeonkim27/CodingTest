@@ -1,4 +1,4 @@
-package bakjun_private.입출력과_사칙연산.Cat;
+package bakjun_private.날짜20250604.입출력과_사칙연산.Cat;
 
 public class Main {
     public static void main(String[] args) {
