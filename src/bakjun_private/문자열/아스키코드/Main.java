@@ -1,4 +1,4 @@
-package bakjun_private.아스키코드;
+package bakjun_private.문자열.아스키코드;
 
 import java.util.Scanner;
 

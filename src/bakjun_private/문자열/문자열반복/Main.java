@@ -1,4 +1,4 @@
-package bakjun_private.문자열반복;
+package bakjun_private.문자열.문자열반복;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
