@@ -1,4 +1,4 @@
-package leetCode.Implement_Trie_Prefix_Tree;
+package leetCode.trie.Implement_Trie_Prefix_Tree;
 
 class Trie {
     // Trie의 각 노드를 나타내는 내부 클래스
